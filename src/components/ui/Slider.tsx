@@ -9,7 +9,7 @@ interface SliderProps
   onChange: (value: number) => void;
 }
 
-// TODO: Manejar las clases desde un archivoooooo! 
+// TODO: Manejar las clases desde un archivoooooo!
 const Slider: React.FC<SliderProps> = ({
   min,
   max,

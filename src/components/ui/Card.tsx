@@ -3,7 +3,7 @@ interface CardProps {
   children: React.ReactNode;
 }
 
-// TODO: Manejar las clases desde un archivoooooo! 
+// TODO: Manejar las clases desde un archivoooooo!
 const Card = ({ title, children }: CardProps) => {
   return (
     <div className="bg-gray-900 border border-gray-700 p-6 rounded-lg hover:border-blue-500 transition-colors">

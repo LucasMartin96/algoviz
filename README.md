@@ -18,7 +18,6 @@ A interactive web application that visualizes Dijkstra's pathfinding algorithm i
 - Watch the algorithm work step by step
 - View the shortest path highlighted
 
-
 ### 🎮 Animation Controls
 
 - Play/Pause animation
@@ -33,7 +32,6 @@ A interactive web application that visualizes Dijkstra's pathfinding algorithm i
 - Weighted edge support
 - Interactive controls
 - Visual step tracking
-
 
 ## How It Works
 

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Section from '../layout/Section';
 
-// TODO: Manejar las clases desde un archivoooooo! 
+// TODO: Manejar las clases desde un archivoooooo!
 const HeroSection = () => {
   return (
     <Section className="py-20">

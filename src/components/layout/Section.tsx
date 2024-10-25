@@ -4,7 +4,7 @@ interface SectionProps {
   darker?: boolean;
 }
 
-// TODO: Manejar las clases desde un archivoooooo! 
+// TODO: Manejar las clases desde un archivoooooo!
 const Section = ({
   children,
   className = '',

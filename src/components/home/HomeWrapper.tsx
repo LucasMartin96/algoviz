@@ -8,7 +8,7 @@ import Section from '../layout/Section';
 import Card from '../ui/Card';
 import AlgorithmList from '../ui/AlgorithmList';
 
-// TODO: Manejar las clases desde un archivoooooo! 
+// TODO: Manejar las clases desde un archivoooooo!
 const HomeWrapper = () => {
   return (
     <div className="min-h-screen bg-gray-900">

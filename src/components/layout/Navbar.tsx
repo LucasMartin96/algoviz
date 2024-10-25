@@ -10,7 +10,7 @@ const navigation = [
   { name: 'Sorting', href: '/sorting' },
 ];
 
-// TODO: Manejar las clases desde un archivoooooo! 
+// TODO: Manejar las clases desde un archivoooooo!
 const Navbar = () => {
   const pathname = usePathname();
 
