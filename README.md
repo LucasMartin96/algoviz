@@ -2,6 +2,10 @@
 
 A interactive web application that visualizes Dijkstra's pathfinding algorithm in real-time. Built with Next.js, TypeScript, and TailwindCSS.
 
+## Project Deployment
+
+The project is live! You can view it here: [https://algoviz-three.vercel.app/](https://algoviz-three.vercel.app/)
+
 ## Features
 
 ### 🎯 Interactive Graph Creation
